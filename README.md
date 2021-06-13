@@ -15,8 +15,8 @@ Challenges solved:
 - [x] [Bytes and Big Integers](https://github.com/stwater20/cryptohack/blob/master/General/Encoding/Bytes_and_Big_Integer.py)
 - [x] [Encoding Challenge](https://github.com/stwater20/cryptohack/blob/master/General/Encoding/Encoding_Challenge.py)
 ##### 2.2 XOR
-- [ ] XOR Starter
-- [ ] XOR Properties
+- [x] [XOR Starter](https://github.com/stwater20/cryptohack/blob/master/General/XOR/XOR_Starter.py)
+- [x] [XOR Properties](https://github.com/stwater20/cryptohack/blob/master/General/XOR/XOR_Properties.py)
 - [ ] Favourite byte
 - [ ] You either know, XOR you don't
 - [ ] Lemur XOR
