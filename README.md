@@ -19,9 +19,9 @@ Challenges solved:
 - [x] [XOR Properties](https://github.com/stwater20/cryptohack/blob/master/General/XOR/XOR_Properties.py)
 - [x] Favourite byte
 - [x] You either know, XOR you don't
-- [ ] Lemur XOR
+- [x] Lemur XOR
 ##### 2.3 Mathematics
-- [ ] Greatest Common Divisor
+- [x] Greatest Common Divisor
 - [ ] Extended GCD
 - [ ] Modular Arithmetic 1
 - [ ] Modular Arithmetic 2
