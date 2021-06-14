@@ -22,7 +22,7 @@ Challenges solved:
 - [x] Lemur XOR
 ##### 2.3 Mathematics
 - [x] Greatest Common Divisor
-- [ ] Extended GCD
+- [x] Extended GCD
 - [ ] Modular Arithmetic 1
 - [ ] Modular Arithmetic 2
 - [ ] Modular Inverting
