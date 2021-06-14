@@ -1,4 +1,4 @@
-from PIL import Image, ImageChops
+from PIL import Image, ImageChops # pip install Pillow
 im1 = Image.open('lemur.png')
 im2 = Image.open('flag.png')
 
