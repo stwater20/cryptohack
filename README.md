@@ -24,7 +24,7 @@ Challenges solved:
 - [x] Greatest Common Divisor
 - [x] Extended GCD
 - [x] Modular Arithmetic 1
-- [ ] Modular Arithmetic 2
+- [x] Modular Arithmetic 2
 - [ ] Modular Inverting
 ##### 2.4 Data Formats
 - [ ] Privacy-Enhanced Mail?
