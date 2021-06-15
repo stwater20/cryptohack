@@ -25,7 +25,7 @@ Challenges solved:
 - [x] [Extended GCD](https://github.com/stwater20/cryptohack/blob/master/General/MATHEMATICS/Extended_GCD.py)
 - [x] [Modular Arithmetic 1](https://github.com/stwater20/cryptohack/blob/master/General/MATHEMATICS/Modular_Arithmetic_1.py)
 - [x] [Modular Arithmetic 2](https://github.com/stwater20/cryptohack/blob/master/General/MATHEMATICS/Modular_Arithmetic_2.py)
-- [ ] Modular Inverting
+- [x] Modular Inverting
 ##### 2.4 Data Formats
 - [ ] Privacy-Enhanced Mail?
 - [ ] CERTainly not
