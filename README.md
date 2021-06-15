@@ -17,14 +17,14 @@ Challenges solved:
 ##### 2.2 XOR
 - [x] [XOR Starter](https://github.com/stwater20/cryptohack/blob/master/General/XOR/XOR_Starter.py)
 - [x] [XOR Properties](https://github.com/stwater20/cryptohack/blob/master/General/XOR/XOR_Properties.py)
-- [x] Favourite byte
-- [x] You either know, XOR you don't
-- [x] Lemur XOR
+- [x] [Favourite byte](https://github.com/stwater20/cryptohack/blob/master/General/XOR/Favourite_byte.py)
+- [x] [You either know, XOR you don't](https://github.com/stwater20/cryptohack/blob/master/General/XOR/You_either_know_XOR_you_don't.py)
+- [x] [Lemur XOR](https://github.com/stwater20/cryptohack/blob/master/General/XOR/Lemur_XOR.py)
 ##### 2.3 Mathematics
-- [x] Greatest Common Divisor
-- [x] Extended GCD
-- [x] Modular Arithmetic 1
-- [x] Modular Arithmetic 2
+- [x] [Greatest Common Divisor](https://github.com/stwater20/cryptohack/blob/master/General/MATHEMATICS/Greatest_Common_Divisor.py)
+- [x] [Extended GCD](https://github.com/stwater20/cryptohack/blob/master/General/MATHEMATICS/Extended_GCD.py)
+- [x] [Modular Arithmetic 1](https://github.com/stwater20/cryptohack/blob/master/General/MATHEMATICS/Modular_Arithmetic_1.py)
+- [x] [Modular Arithmetic 2](https://github.com/stwater20/cryptohack/blob/master/General/MATHEMATICS/Modular_Arithmetic_2.py)
 - [ ] Modular Inverting
 ##### 2.4 Data Formats
 - [ ] Privacy-Enhanced Mail?
