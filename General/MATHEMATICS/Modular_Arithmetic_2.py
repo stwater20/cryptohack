@@ -1,7 +1,6 @@
-#11 ≡ a mod 6
-#8146798528947 ≡ b mod 17
 
-# note https://ithelp.ithome.com.tw/articles/10205727
+
+# note https://ithelp.ithome.com.tw/articles/10205906
 
 '''
 Looking at Fermat's little theorem...
