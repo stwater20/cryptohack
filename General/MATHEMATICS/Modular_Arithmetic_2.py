@@ -18,7 +18,6 @@ If 273246787654 and 65537 are coprime,
 def gcd(a, b):
     if a == 0 :
         return b
-     
     return gcd(b%a, a)
 
 a = 273246787654
