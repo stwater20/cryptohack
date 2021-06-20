@@ -29,3 +29,7 @@ Challenges solved:
 ##### 2.4 Data Formats
 - [ ] Privacy-Enhanced Mail?
 - [ ] CERTainly not
+
+### 8. Crypto On The Web
+#### 8.1 JSON Web Token
+- [x] Token Appreciation 
