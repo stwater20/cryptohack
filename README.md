@@ -30,6 +30,10 @@ Challenges solved:
 - [ ] Privacy-Enhanced Mail?
 - [ ] CERTainly not
 
+### 5. RSA
+#### 5.1 STARTER
+- [ ] RSA Starter 1
+
 ### 8. Crypto On The Web
 #### 8.1 JSON Web Token
 - [x] Token Appreciation 
